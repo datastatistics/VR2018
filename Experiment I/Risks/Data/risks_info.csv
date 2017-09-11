@@ -1,0 +1,54 @@
+id;name;x;y;type
+1;Cabinet with open doors;-17.27;-21.99;simple
+2;Rope;-22.84;-15.78;simple
+3;Power outlet not signaled;-23.73;-30.88;composite
+4;Fallen frame;-26.71;-20.68;composite
+5;Broken tile;-26.92;-22.41;simple
+6;Rolled up carpet;-18.89;-19.02;simple
+7;Bag;-23.56;-19.08;simple
+8;Flashing lamp;-26.03;-21.36;composite
+9;Cabinet blocking the passage;-19.32;-15.36;simple
+10;Many equipments in the same outlet;-28.6;-23.76;simple
+11;Lamp off;-18.18;-21.29;composite
+12;Door not signaled;-25.88;-31.96;composite
+13;Wet floor;-27.3;-20.96;simple
+14;Chairs blocking the passage;-17.79;-21.69;simple
+15;Cleaning products;-26.18;-29.46;simple
+16;Broken tiles;-15.37;-28.75;simple
+17;Carpet stain;-24.64;-19.23;simple
+18;Rolled up carpet;-24.74;-32.4;simple
+19;Rope;-25.08;-26.22;simple
+20;Door without doorknob;-23.61;-28.44;composite
+21;Wet stairs;-14.27;-21.09;composite
+22;Lamp off;-28.03;-22.98;composite
+23;Alarm off;-25.37;-20.74;composite
+24;Fire extinguisher blocked;-17.6;-15.26;simple
+25;Fallen outlet;-19.74;-25.08;simple
+26;Chairs blocking fire extinguisher;-24.44;-28.79;simple
+27;Hole;-11.93;-14.48;simple
+28;Cleaning products;-25.83;-23.22;simple
+29;Table blocking the passage;-27.77;-22.29;simple
+30;Cup on the table;-25.89;-22.03;simple
+31;Open drawer;-26.83;-24.11;composite
+32;Outlet without cover;-23.53;-23.23;simple
+33;Cabinet with open doors;-26.73;-24.19;composite
+34;Chairs blocking the passage;-25.63;-21.08;simple
+35;Flashing lamp;-20.1;-16.52;composite
+36;Wet floor;-20.48;-17.27;simple
+37;Fallen frame;-26.42;-30.2;composite
+38;Fallen trash can;-17.42;-23.98;simple
+39;Chairs blocking the passage;-26.9;-22.47;simple
+40;Carpet stain;-26.17;-29.72;simple
+41;Fallen outlet;-24.46;-31.87;composite
+42;Outlet without cover;-27.04;-23.23;simple
+43;Fallen frame;-22.27;-25.2;composite
+44;Puddle;-15.57;-19.53;simple
+45;Trash in the floor;-26.93;-20.91;simple
+46;Hole;-16.55;-24.66;simple
+47;Alarm off;-17.05;-23.96;composite
+48;Fallen lamp;-22.39;-18.3;composite
+49;Irregular connection;-28.64;-23.75;simple
+50;Cabinet open doors;-17.27;-15.6;simple
+51;Equipments;-7.24;-23.55;simple
+52;Lamp off;-24.82;-29.53;composite
+53;Fire extinguisher blocked;-19.37;-29.41;simple

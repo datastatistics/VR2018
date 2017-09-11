@@ -1,0 +1,683 @@
+user;time;id;name;display
+1;29.17;41;tomadaRuim;Oculus Rift
+1;35.05;37;quadro-solto-prefab;Oculus Rift
+1;39.79;18;tapete-enrolado;Oculus Rift
+1;46.21;3;tomadaSemSinalizacao;Oculus Rift
+1;52.39;15;Produtos;Oculus Rift
+2;32.18;41;tomadaRuim;Oculus Rift
+3;23.31;37;quadro-solto-prefab;Monitor
+3;38.63;21;escada-entrada-molhada;Monitor
+3;42.29;41;tomadaRuim;Monitor
+3;48.95;40;carpet_stain;Monitor
+3;68.87;15;Produtos;Monitor
+3;92.10;46;buraco2;Monitor
+3;102.80;27;buraco1;Monitor
+3;177.20;43;quadroSolto;Monitor
+3;180.66;25;outlets-caida;Monitor
+3;194.58;17;carpet-stain;Monitor
+4;34.01;37;quadro-solto-prefab;Oculus Rift
+4;38.11;15;Produtos;Oculus Rift
+5;40.16;37;quadro-solto-prefab;Monitor
+5;71.49;15;Produtos;Monitor
+5;233.17;10;equips-mesma-tomada-fun;Monitor
+5;237.78;29;mesaCozinha;Monitor
+5;241.02;45;lixoNoChao;Monitor
+5;244.12;43;quadroSolto;Monitor
+5;258.27;34;cadeiraCozinha;Monitor
+5;270.93;30;copo-mesacozinha;Monitor
+6;16.67;37;quadro-solto-prefab;Oculus Rift
+6;23.09;41;tomadaRuim;Oculus Rift
+6;25.09;18;tapete-enrolado;Oculus Rift
+6;33.45;40;carpet_stain;Oculus Rift
+6;40.19;15;Produtos;Oculus Rift
+6;112.12;27;buraco1;Oculus Rift
+6;125.84;46;buraco2;Oculus Rift
+6;146.98;43;quadroSolto;Oculus Rift
+6;151.81;45;lixoNoChao;Oculus Rift
+6;153.94;5;piso-quebrado;Oculus Rift
+6;176.34;17;carpet-stain;Oculus Rift
+6;183.61;6;carpete-enrolado;Oculus Rift
+7;64.81;41;tomadaRuim;Monitor
+7;70.19;37;quadro-solto-prefab;Monitor
+7;100.16;51;EquipsManutencao;Monitor
+7;309.66;43;quadroSolto;Monitor
+7;321.53;25;outlets-caida;Monitor
+7;335.01;38;lixeira-escritorio;Monitor
+7;386.27;2;corda;Monitor
+7;401.12;52;Lampada Estragada;Monitor
+8;72.17;41;tomadaRuim;Oculus Rift
+8;239.83;46;buraco2;Oculus Rift
+8;311.36;32;outlets-semEspelho;Oculus Rift
+8;365.80;34;cadeiraCozinha;Oculus Rift
+8;421.38;36;piso-umido-adm;Oculus Rift
+8;427.28;9;gaveteiro-bloqueando-corredor;Oculus Rift
+9;25.31;41;tomadaRuim;Oculus Rift
+9;34.97;37;quadro-solto-prefab;Oculus Rift
+9;156.96;45;lixoNoChao;Oculus Rift
+9;161.82;43;quadroSolto;Oculus Rift
+9;193.70;17;carpet-stain;Oculus Rift
+10;44.08;53;extinjtor-obstruido-patio;Monitor
+10;55.40;37;quadro-solto-prefab;Monitor
+10;63.05;46;buraco2;Monitor
+10;69.02;51;EquipsManutencao;Monitor
+10;84.08;27;buraco1;Monitor
+10;126.46;43;quadroSolto;Monitor
+10;131.66;25;outlets-caida;Monitor
+10;138.63;38;lixeira-escritorio;Monitor
+10;149.50;45;lixoNoChao;Monitor
+10;155.54;5;piso-quebrado;Monitor
+10;163.98;34;cadeiraCozinha;Monitor
+10;169.61;29;mesaCozinha;Monitor
+10;174.50;10;equips-mesma-tomada-fun;Monitor
+10;177.79;31;gaveta-cozinha-aberta;Monitor
+10;197.78;33;armarioAberto-fun;Monitor
+10;205.34;17;carpet-stain;Monitor
+10;212.98;7;mochila;Monitor
+10;220.56;6;carpete-enrolado;Monitor
+11;13.23;18;tapete-enrolado;Oculus Rift
+11;16.74;37;quadro-solto-prefab;Oculus Rift
+11;33.87;3;tomadaSemSinalizacao;Oculus Rift
+11;36.95;41;tomadaRuim;Oculus Rift
+11;83.84;46;buraco2;Oculus Rift
+11;104.28;27;buraco1;Oculus Rift
+11;176.89;43;quadroSolto;Oculus Rift
+11;186.20;25;outlets-caida;Oculus Rift
+11;213.03;14;cadeirasNoCaminho;Oculus Rift
+11;215.84;38;lixeira-escritorio;Oculus Rift
+11;216.77;1;cabinet-open-doors;Oculus Rift
+11;219.72;6;carpete-enrolado;Oculus Rift
+11;232.61;9;gaveteiro-bloqueando-corredor;Oculus Rift
+11;254.43;2;corda;Oculus Rift
+11;263.81;17;carpet-stain;Oculus Rift
+11;277.15;45;lixoNoChao;Oculus Rift
+12;14.57;18;tapete-enrolado;Monitor
+12;21.53;37;quadro-solto-prefab;Monitor
+12;40.45;41;tomadaRuim;Monitor
+12;54.25;40;carpet_stain;Monitor
+12;99.06;19;corda-patio;Monitor
+12;109.75;43;quadroSolto;Monitor
+12;132.02;10;equips-mesma-tomada-fun;Monitor
+12;146.91;13;piso-molhado-fun;Monitor
+12;151.55;29;mesaCozinha;Monitor
+12;180.46;17;carpet-stain;Monitor
+12;192.49;2;corda;Monitor
+13;15.27;18;tapete-enrolado;Oculus Rift
+13;48.46;41;tomadaRuim;Oculus Rift
+13;83.25;37;quadro-solto-prefab;Oculus Rift
+13;113.14;46;buraco2;Oculus Rift
+13;138.52;27;buraco1;Oculus Rift
+13;245.65;29;mesaCozinha;Oculus Rift
+13;252.21;39;cadeirasNoCaminho-fun;Oculus Rift
+13;269.60;43;quadroSolto;Oculus Rift
+13;332.50;31;gaveta-cozinha-aberta;Oculus Rift
+13;336.98;33;armarioAberto-fun;Oculus Rift
+13;416.46;10;equips-mesma-tomada-fun;Oculus Rift
+13;431.42;45;lixoNoChao;Oculus Rift
+13;447.78;34;cadeiraCozinha;Oculus Rift
+14;27.45;37;quadro-solto-prefab;Monitor
+14;36.23;15;Produtos;Monitor
+14;54.05;18;tapete-enrolado;Monitor
+14;63.13;52;Lampada Estragada;Monitor
+14;88.41;53;extinjtor-obstruido-patio;Monitor
+14;104.01;19;corda-patio;Monitor
+14;121.05;28;produtosLimpeza;Monitor
+14;124.48;43;quadroSolto;Monitor
+14;129.22;39;cadeirasNoCaminho-fun;Monitor
+14;130.46;45;lixoNoChao;Monitor
+15;11.43;18;tapete-enrolado;Oculus Rift
+15;27.04;52;Lampada Estragada;Oculus Rift
+15;34.63;37;quadro-solto-prefab;Oculus Rift
+15;75.84;53;extinjtor-obstruido-patio;Oculus Rift
+15;91.97;43;quadroSolto;Oculus Rift
+15;104.17;46;buraco2;Oculus Rift
+15;117.36;27;buraco1;Oculus Rift
+15;194.55;25;outlets-caida;Oculus Rift
+15;211.40;38;lixeira-escritorio;Oculus Rift
+15;265.74;45;lixoNoChao;Oculus Rift
+15;273.59;33;armarioAberto-fun;Oculus Rift
+15;285.32;31;gaveta-cozinha-aberta;Oculus Rift
+15;309.51;17;carpet-stain;Oculus Rift
+15;317.94;7;mochila;Oculus Rift
+15;321.81;6;carpete-enrolado;Oculus Rift
+15;331.10;24;extintor-obstruido-adm;Oculus Rift
+15;334.68;9;gaveteiro-bloqueando-corredor;Oculus Rift
+16;12.11;18;tapete-enrolado;Monitor
+16;24.05;15;Produtos;Monitor
+16;38.19;37;quadro-solto-prefab;Monitor
+16;48.89;41;tomadaRuim;Monitor
+16;90.74;19;corda-patio;Monitor
+16;109.14;43;quadroSolto;Monitor
+16;113.32;25;outlets-caida;Monitor
+16;147.28;17;carpet-stain;Monitor
+16;169.26;2;corda;Monitor
+16;181.20;9;gaveteiro-bloqueando-corredor;Monitor
+16;202.44;6;carpete-enrolado;Monitor
+16;226.13;1;cabinet-open-doors;Monitor
+16;266.57;46;buraco2;Monitor
+16;276.93;51;EquipsManutencao;Monitor
+17;24.59;3;tomadaSemSinalizacao;Oculus Rift
+17;26.19;38;lixeira-escritorio;Oculus Rift
+18;26.54;37;quadro-solto-prefab;Monitor
+18;41.09;18;tapete-enrolado;Monitor
+18;44.54;41;tomadaRuim;Monitor
+19;62.08;37;quadro-solto-prefab;Oculus Rift
+19;63.67;40;carpet_stain;Oculus Rift
+19;67.13;41;tomadaRuim;Oculus Rift
+19;70.85;18;tapete-enrolado;Oculus Rift
+19;76.26;38;lixeira-escritorio;Oculus Rift
+19;79.44;3;tomadaSemSinalizacao;Oculus Rift
+19;97.56;26;cadeira-obstruindo-extintor;Oculus Rift
+19;101.12;15;Produtos;Oculus Rift
+19;195.23;36;piso-umido-adm;Oculus Rift
+19;208.72;2;corda;Oculus Rift
+20;22.96;18;tapete-enrolado;Monitor
+20;51.70;37;quadro-solto-prefab;Monitor
+20;81.26;40;carpet_stain;Monitor
+20;242.61;41;tomadaRuim;Monitor
+20;277.32;53;extinjtor-obstruido-patio;Monitor
+20;326.72;51;EquipsManutencao;Monitor
+20;362.47;27;buraco1;Monitor
+20;432.86;46;buraco2;Monitor
+20;485.75;5;piso-quebrado;Monitor
+20;493.29;29;mesaCozinha;Monitor
+20;495.81;13;piso-molhado-fun;Monitor
+20;507.32;45;lixoNoChao;Monitor
+20;512.46;43;quadroSolto;Monitor
+20;532.76;34;cadeiraCozinha;Monitor
+20;545.47;30;copo-mesacozinha;Monitor
+20;556.25;28;produtosLimpeza;Monitor
+20;612.54;33;armarioAberto-fun;Monitor
+20;618.33;31;gaveta-cozinha-aberta;Monitor
+20;636.26;10;equips-mesma-tomada-fun;Monitor
+20;666.60;19;corda-patio;Monitor
+20;729.99;38;lixeira-escritorio;Monitor
+20;759.53;1;cabinet-open-doors;Monitor
+20;800.81;14;cadeirasNoCaminho;Monitor
+20;871.25;36;piso-umido-adm;Monitor
+20;887.94;6;carpete-enrolado;Monitor
+20;927.62;24;extintor-obstruido-adm;Monitor
+20;929.63;9;gaveteiro-bloqueando-corredor;Monitor
+21;39.50;3;tomadaSemSinalizacao;Oculus Rift
+21;43.25;41;tomadaRuim;Oculus Rift
+21;55.45;37;quadro-solto-prefab;Oculus Rift
+21;59.88;18;tapete-enrolado;Oculus Rift
+22;20.63;18;tapete-enrolado;Monitor
+22;42.42;21;escada-entrada-molhada;Monitor
+22;48.98;41;tomadaRuim;Monitor
+22;57.31;37;quadro-solto-prefab;Monitor
+22;112.70;46;buraco2;Monitor
+22;139.16;44;poca-dagua;Monitor
+22;147.84;27;buraco1;Monitor
+22;209.15;51;EquipsManutencao;Monitor
+22;236.33;5;piso-quebrado;Monitor
+22;251.15;10;equips-mesma-tomada-fun;Monitor
+22;258.37;13;piso-molhado-fun;Monitor
+22;259.86;45;lixoNoChao;Monitor
+22;262.43;43;quadroSolto;Monitor
+22;272.06;30;copo-mesacozinha;Monitor
+22;278.02;28;produtosLimpeza;Monitor
+22;295.73;32;outlets-semEspelho;Monitor
+22;302.79;17;carpet-stain;Monitor
+22;305.00;7;mochila;Monitor
+22;331.18;6;carpete-enrolado;Monitor
+22;341.37;9;gaveteiro-bloqueando-corredor;Monitor
+22;346.91;14;cadeirasNoCaminho;Monitor
+22;368.17;38;lixeira-escritorio;Monitor
+22;389.79;52;Lampada Estragada;Monitor
+22;401.18;36;piso-umido-adm;Monitor
+22;428.93;16;LajotasQuebradas;Monitor
+23;31.61;15;Produtos;Oculus Rift
+23;189.20;10;equips-mesma-tomada-fun;Oculus Rift
+23;207.19;28;produtosLimpeza;Oculus Rift
+23;211.98;45;lixoNoChao;Oculus Rift
+24;59.20;41;tomadaRuim;Monitor
+24;87.07;37;quadro-solto-prefab;Monitor
+24;203.94;2;corda;Monitor
+24;216.54;17;carpet-stain;Monitor
+24;243.82;13;piso-molhado-fun;Monitor
+24;246.39;45;lixoNoChao;Monitor
+24;259.67;33;armarioAberto-fun;Monitor
+24;262.99;29;mesaCozinha;Monitor
+24;301.06;52;Lampada Estragada;Monitor
+24;315.82;36;piso-umido-adm;Monitor
+25;50.50;18;tapete-enrolado;Oculus Rift
+25;60.90;37;quadro-solto-prefab;Oculus Rift
+25;93.91;41;tomadaRuim;Oculus Rift
+25;248.13;52;Lampada Estragada;Oculus Rift
+25;254.12;36;piso-umido-adm;Oculus Rift
+25;260.16;2;corda;Oculus Rift
+25;269.48;17;carpet-stain;Oculus Rift
+25;282.49;7;mochila;Oculus Rift
+25;285.67;6;carpete-enrolado;Oculus Rift
+25;296.20;38;lixeira-escritorio;Oculus Rift
+25;300.91;1;cabinet-open-doors;Oculus Rift
+25;303.28;14;cadeirasNoCaminho;Oculus Rift
+26;14.87;18;tapete-enrolado;Monitor
+26;60.08;41;tomadaRuim;Monitor
+26;71.50;15;Produtos;Monitor
+26;131.22;27;buraco1;Monitor
+26;190.04;51;EquipsManutencao;Monitor
+26;208.14;19;corda-patio;Monitor
+26;223.69;28;produtosLimpeza;Monitor
+26;235.35;5;piso-quebrado;Monitor
+26;256.14;10;equips-mesma-tomada-fun;Monitor
+26;311.41;6;carpete-enrolado;Monitor
+26;322.51;52;Lampada Estragada;Monitor
+26;371.30;25;outlets-caida;Monitor
+27;31.66;3;tomadaSemSinalizacao;Oculus Rift
+27;126.45;10;equips-mesma-tomada-fun;Oculus Rift
+28;24.31;18;tapete-enrolado;Monitor
+28;25.53;41;tomadaRuim;Monitor
+28;28.46;37;quadro-solto-prefab;Monitor
+28;30.31;15;Produtos;Monitor
+28;38.92;26;cadeira-obstruindo-extintor;Monitor
+28;63.15;52;Lampada Estragada;Monitor
+29;25.87;37;quadro-solto-prefab;Monitor
+29;40.20;41;tomadaRuim;Monitor
+29;52.64;40;carpet_stain;Monitor
+29;57.29;15;Produtos;Monitor
+29;234.39;17;carpet-stain;Monitor
+29;248.34;2;corda;Monitor
+29;265.67;36;piso-umido-adm;Monitor
+30;19.69;41;tomadaRuim;Oculus Rift
+30;32.33;37;quadro-solto-prefab;Oculus Rift
+30;34.24;15;Produtos;Oculus Rift
+30;38.75;40;carpet_stain;Oculus Rift
+30;48.21;52;Lampada Estragada;Oculus Rift
+30;52.02;3;tomadaSemSinalizacao;Oculus Rift
+30;65.10;18;tapete-enrolado;Oculus Rift
+30;104.43;43;quadroSolto;Oculus Rift
+30;108.29;46;buraco2;Oculus Rift
+30;119.04;27;buraco1;Oculus Rift
+30;200.66;25;outlets-caida;Oculus Rift
+30;215.13;13;piso-molhado-fun;Oculus Rift
+30;228.18;5;piso-quebrado;Oculus Rift
+30;235.69;10;equips-mesma-tomada-fun;Oculus Rift
+30;239.65;33;armarioAberto-fun;Oculus Rift
+30;247.86;42;tomada-semEspelho-cozinha;Oculus Rift
+30;259.89;7;mochila;Oculus Rift
+30;265.33;6;carpete-enrolado;Oculus Rift
+30;271.13;36;piso-umido-adm;Oculus Rift
+31;35.13;15;Produtos;Monitor
+31;42.52;3;tomadaSemSinalizacao;Monitor
+31;44.18;41;tomadaRuim;Monitor
+31;79.65;53;extinjtor-obstruido-patio;Monitor
+31;100.77;46;buraco2;Monitor
+31;111.49;27;buraco1;Monitor
+31;169.77;25;outlets-caida;Monitor
+31;184.97;38;lixeira-escritorio;Monitor
+31;202.16;32;outlets-semEspelho;Monitor
+31;207.27;17;carpet-stain;Monitor
+31;211.12;13;piso-molhado-fun;Monitor
+31;212.67;5;piso-quebrado;Monitor
+31;216.55;45;lixoNoChao;Monitor
+31;236.40;42;tomada-semEspelho-cozinha;Monitor
+31;238.13;31;gaveta-cozinha-aberta;Monitor
+31;245.77;10;equips-mesma-tomada-fun;Monitor
+31;268.14;28;produtosLimpeza;Monitor
+31;279.88;7;mochila;Monitor
+31;282.90;6;carpete-enrolado;Monitor
+31;298.64;9;gaveteiro-bloqueando-corredor;Monitor
+31;318.38;1;cabinet-open-doors;Monitor
+32;55.50;18;tapete-enrolado;Oculus Rift
+32;59.45;41;tomadaRuim;Oculus Rift
+32;76.50;37;quadro-solto-prefab;Oculus Rift
+32;78.95;15;Produtos;Oculus Rift
+32;85.42;40;carpet_stain;Oculus Rift
+32;106.93;3;tomadaSemSinalizacao;Oculus Rift
+32;176.52;46;buraco2;Oculus Rift
+32;184.69;44;poca-dagua;Oculus Rift
+32;195.41;27;buraco1;Oculus Rift
+32;265.02;29;mesaCozinha;Oculus Rift
+32;268.04;5;piso-quebrado;Oculus Rift
+32;272.09;43;quadroSolto;Oculus Rift
+32;277.25;34;cadeiraCozinha;Oculus Rift
+32;283.03;45;lixoNoChao;Oculus Rift
+32;302.91;10;equips-mesma-tomada-fun;Oculus Rift
+32;319.60;28;produtosLimpeza;Oculus Rift
+32;324.55;30;copo-mesacozinha;Oculus Rift
+32;331.89;17;carpet-stain;Oculus Rift
+32;381.86;52;Lampada Estragada;Oculus Rift
+32;412.06;36;piso-umido-adm;Oculus Rift
+32;452.21;53;extinjtor-obstruido-patio;Oculus Rift
+33;62.08;21;escada-entrada-molhada;Monitor
+33;106.28;41;tomadaRuim;Monitor
+33;148.06;15;Produtos;Monitor
+33;151.27;37;quadro-solto-prefab;Monitor
+33;182.84;26;cadeira-obstruindo-extintor;Monitor
+33;439.13;13;piso-molhado-fun;Monitor
+33;448.65;45;lixoNoChao;Monitor
+33;472.69;5;piso-quebrado;Monitor
+33;522.76;33;armarioAberto-fun;Monitor
+33;542.82;10;equips-mesma-tomada-fun;Monitor
+33;562.69;43;quadroSolto;Monitor
+33;622.56;36;piso-umido-adm;Monitor
+34;56.98;37;quadro-solto-prefab;Monitor
+34;61.73;40;carpet_stain;Monitor
+34;65.70;15;Produtos;Monitor
+34;80.01;18;tapete-enrolado;Monitor
+34;243.20;46;buraco2;Monitor
+34;285.67;28;produtosLimpeza;Monitor
+34;307.16;43;quadroSolto;Monitor
+34;320.97;17;carpet-stain;Monitor
+34;341.59;36;piso-umido-adm;Monitor
+34;356.96;52;Lampada Estragada;Monitor
+35;19.92;41;tomadaRuim;Oculus Rift
+35;26.23;37;quadro-solto-prefab;Oculus Rift
+35;30.75;15;Produtos;Oculus Rift
+35;51.91;3;tomadaSemSinalizacao;Oculus Rift
+35;81.24;44;poca-dagua;Oculus Rift
+35;108.91;27;buraco1;Oculus Rift
+35;120.28;46;buraco2;Oculus Rift
+35;127.25;53;extinjtor-obstruido-patio;Oculus Rift
+35;131.70;19;corda-patio;Oculus Rift
+35;136.26;43;quadroSolto;Oculus Rift
+35;142.85;10;equips-mesma-tomada-fun;Oculus Rift
+35;152.47;17;carpet-stain;Oculus Rift
+35;159.10;2;corda;Oculus Rift
+35;182.74;36;piso-umido-adm;Oculus Rift
+35;205.62;6;carpete-enrolado;Oculus Rift
+35;221.46;38;lixeira-escritorio;Oculus Rift
+36;24.27;18;tapete-enrolado;Monitor
+36;28.75;37;quadro-solto-prefab;Monitor
+36;38.42;41;tomadaRuim;Monitor
+36;73.50;26;cadeira-obstruindo-extintor;Monitor
+36;125.22;15;Produtos;Monitor
+36;183.09;53;extinjtor-obstruido-patio;Monitor
+36;205.13;46;buraco2;Monitor
+36;255.53;51;EquipsManutencao;Monitor
+36;270.88;16;LajotasQuebradas;Monitor
+36;284.60;44;poca-dagua;Monitor
+36;295.28;27;buraco1;Monitor
+36;391.79;19;corda-patio;Monitor
+36;410.21;5;piso-quebrado;Monitor
+36;419.59;43;quadroSolto;Monitor
+36;423.29;45;lixoNoChao;Monitor
+36;427.51;34;cadeiraCozinha;Monitor
+36;450.87;10;equips-mesma-tomada-fun;Monitor
+36;488.74;17;carpet-stain;Monitor
+36;499.58;2;corda;Monitor
+36;538.14;38;lixeira-escritorio;Monitor
+37;61.17;18;tapete-enrolado;Oculus Rift
+37;104.76;41;tomadaRuim;Oculus Rift
+37;113.97;37;quadro-solto-prefab;Oculus Rift
+37;126.34;40;carpet_stain;Oculus Rift
+37;190.01;27;buraco1;Oculus Rift
+37;252.50;51;EquipsManutencao;Oculus Rift
+37;274.01;46;buraco2;Oculus Rift
+37;336.62;43;quadroSolto;Oculus Rift
+37;391.70;17;carpet-stain;Oculus Rift
+37;408.50;45;lixoNoChao;Oculus Rift
+37;412.22;39;cadeirasNoCaminho-fun;Oculus Rift
+37;437.43;5;piso-quebrado;Oculus Rift
+37;460.80;10;equips-mesma-tomada-fun;Oculus Rift
+37;488.12;34;cadeiraCozinha;Oculus Rift
+37;540.06;52;Lampada Estragada;Oculus Rift
+37;563.91;36;piso-umido-adm;Oculus Rift
+37;577.63;6;carpete-enrolado;Oculus Rift
+37;603.20;19;corda-patio;Oculus Rift
+38;23.58;37;quadro-solto-prefab;Monitor
+38;30.26;41;tomadaRuim;Monitor
+38;58.39;15;Produtos;Monitor
+38;148.82;27;buraco1;Monitor
+38;164.20;46;buraco2;Monitor
+38;175.20;53;extinjtor-obstruido-patio;Monitor
+38;196.10;28;produtosLimpeza;Monitor
+38;218.53;13;piso-molhado-fun;Monitor
+38;222.36;45;lixoNoChao;Monitor
+38;223.96;43;quadroSolto;Monitor
+38;228.41;5;piso-quebrado;Monitor
+38;232.05;31;gaveta-cozinha-aberta;Monitor
+38;240.18;10;equips-mesma-tomada-fun;Monitor
+38;244.08;33;armarioAberto-fun;Monitor
+38;252.45;30;copo-mesacozinha;Monitor
+38;254.68;39;cadeirasNoCaminho-fun;Monitor
+38;264.89;17;carpet-stain;Monitor
+38;278.96;7;mochila;Monitor
+38;283.27;6;carpete-enrolado;Monitor
+38;299.49;36;piso-umido-adm;Monitor
+38;313.77;52;Lampada Estragada;Monitor
+38;329.80;9;gaveteiro-bloqueando-corredor;Monitor
+38;379.08;19;corda-patio;Monitor
+39;49.60;3;tomadaSemSinalizacao;Oculus Rift
+39;68.70;41;tomadaRuim;Oculus Rift
+39;79.04;37;quadro-solto-prefab;Oculus Rift
+39;95.35;15;Produtos;Oculus Rift
+39;126.03;40;carpet_stain;Oculus Rift
+39;132.56;18;tapete-enrolado;Oculus Rift
+39;138.45;12;portaSemSinal;Oculus Rift
+39;149.76;21;escada-entrada-molhada;Oculus Rift
+39;249.04;51;EquipsManutencao;Oculus Rift
+40;155.69;27;buraco1;Monitor
+40;211.56;46;buraco2;Monitor
+40;236.66;10;equips-mesma-tomada-fun;Monitor
+40;259.04;7;mochila;Monitor
+40;265.71;6;carpete-enrolado;Monitor
+40;319.55;19;corda-patio;Monitor
+40;326.50;53;extinjtor-obstruido-patio;Monitor
+41;125.73;37;quadro-solto-prefab;DisplayWall
+41;137.92;15;Produtos;DisplayWall
+41;145.51;41;tomadaRuim;DisplayWall
+41;161.40;40;carpet_stain;DisplayWall
+41;463.63;52;Lampada Estragada;DisplayWall
+42;430.73;43;quadroSolto;DisplayWall
+42;548.11;6;carpete-enrolado;DisplayWall
+42;565.47;14;cadeirasNoCaminho;DisplayWall
+42;579.11;38;lixeira-escritorio;DisplayWall
+42;603.41;17;carpet-stain;DisplayWall
+43;1069.22;37;quadro-solto-prefab;DisplayWall
+43;1174.77;46;buraco2;DisplayWall
+43;1187.73;44;poca-dagua;DisplayWall
+43;1200.11;27;buraco1;DisplayWall
+43;1305.52;19;corda-patio;DisplayWall
+43;1317.41;25;outlets-caida;DisplayWall
+43;1346.81;7;mochila;DisplayWall
+43;1387.19;45;lixoNoChao;DisplayWall
+43;1390.39;43;quadroSolto;DisplayWall
+43;1415.62;10;equips-mesma-tomada-fun;DisplayWall
+43;1432.91;28;produtosLimpeza;DisplayWall
+43;1456.69;30;copo-mesacozinha;DisplayWall
+43;1474.91;17;carpet-stain;DisplayWall
+43;1484.41;6;carpete-enrolado;DisplayWall
+43;1551.13;50;cabinet-open-doors-small;DisplayWall
+44;219.54;37;quadro-solto-prefab;DisplayWall
+44;224.02;15;Produtos;DisplayWall
+44;249.83;18;tapete-enrolado;DisplayWall
+44;276.75;26;cadeira-obstruindo-extintor;DisplayWall
+44;415.72;25;outlets-caida;DisplayWall
+44;423.03;43;quadroSolto;DisplayWall
+44;441.93;45;lixoNoChao;DisplayWall
+44;447.18;29;mesaCozinha;DisplayWall
+44;453.93;28;produtosLimpeza;DisplayWall
+44;466.09;10;equips-mesma-tomada-fun;DisplayWall
+44;484.36;34;cadeiraCozinha;DisplayWall
+44;497.36;7;mochila;DisplayWall
+44;533.92;36;piso-umido-adm;DisplayWall
+44;550.65;52;Lampada Estragada;DisplayWall
+44;565.35;24;extintor-obstruido-adm;DisplayWall
+44;590.22;53;extinjtor-obstruido-patio;DisplayWall
+45;172.61;37;quadro-solto-prefab;DisplayWall
+46;113.72;12;portaSemSinal;DisplayWall
+46;199.75;37;quadro-solto-prefab;DisplayWall
+46;545.32;38;lixeira-escritorio;DisplayWall
+46;600.17;43;quadroSolto;DisplayWall
+46;627.18;10;equips-mesma-tomada-fun;DisplayWall
+46;682.46;7;mochila;DisplayWall
+47;254.53;25;outlets-caida;DisplayWall
+47;312.06;10;equips-mesma-tomada-fun;DisplayWall
+47;320.49;29;mesaCozinha;DisplayWall
+47;323.56;5;piso-quebrado;DisplayWall
+47;330.96;13;piso-molhado-fun;DisplayWall
+47;351.89;17;carpet-stain;DisplayWall
+47;359.86;6;carpete-enrolado;DisplayWall
+47;414.23;36;piso-umido-adm;DisplayWall
+48;244.66;41;tomadaRuim;DisplayWall
+48;259.24;18;tapete-enrolado;DisplayWall
+48;291.12;37;quadro-solto-prefab;DisplayWall
+48;349.07;25;outlets-caida;DisplayWall
+48;399.54;51;EquipsManutencao;DisplayWall
+48;436.46;27;buraco1;DisplayWall
+48;611.82;19;corda-patio;DisplayWall
+48;648.39;10;equips-mesma-tomada-fun;DisplayWall
+48;666.80;43;quadroSolto;DisplayWall
+48;806.65;53;extinjtor-obstruido-patio;DisplayWall
+48;885.36;9;gaveteiro-bloqueando-corredor;DisplayWall
+48;1023.59;13;piso-molhado-fun;DisplayWall
+48;1155.61;6;carpete-enrolado;DisplayWall
+49;66.09;15;Produtos;DisplayWall
+49;76.83;37;quadro-solto-prefab;DisplayWall
+49;148.87;41;tomadaRuim;DisplayWall
+49;202.68;46;buraco2;DisplayWall
+49;207.54;44;poca-dagua;DisplayWall
+49;217.65;27;buraco1;DisplayWall
+49;298.70;28;produtosLimpeza;DisplayWall
+49;309.19;5;piso-quebrado;DisplayWall
+49;314.19;29;mesaCozinha;DisplayWall
+49;328.93;10;equips-mesma-tomada-fun;DisplayWall
+49;378.87;38;lixeira-escritorio;DisplayWall
+49;399.69;36;piso-umido-adm;DisplayWall
+49;458.18;6;carpete-enrolado;DisplayWall
+49;467.84;50;cabinet-open-doors-small;DisplayWall
+49;493.89;1;cabinet-open-doors;DisplayWall
+49;509.95;7;mochila;DisplayWall
+49;515.43;17;carpet-stain;DisplayWall
+50;38.65;37;quadro-solto-prefab;DisplayWall
+50;45.43;18;tapete-enrolado;DisplayWall
+50;51.40;41;tomadaRuim;DisplayWall
+50;62.76;26;cadeira-obstruindo-extintor;DisplayWall
+50;68.36;15;Produtos;DisplayWall
+50;178.98;51;EquipsManutencao;DisplayWall
+50;237.63;46;buraco2;DisplayWall
+50;270.13;19;corda-patio;DisplayWall
+50;288.51;28;produtosLimpeza;DisplayWall
+50;293.44;5;piso-quebrado;DisplayWall
+50;295.84;13;piso-molhado-fun;DisplayWall
+50;297.55;45;lixoNoChao;DisplayWall
+50;299.38;43;quadroSolto;DisplayWall
+50;305.96;29;mesaCozinha;DisplayWall
+50;318.67;42;tomada-semEspelho-cozinha;DisplayWall
+50;323.73;31;gaveta-cozinha-aberta;DisplayWall
+50;332.33;10;equips-mesma-tomada-fun;DisplayWall
+50;346.89;34;cadeiraCozinha;DisplayWall
+50;361.69;39;cadeirasNoCaminho-fun;DisplayWall
+50;372.53;30;copo-mesacozinha;DisplayWall
+50;385.64;32;outlets-semEspelho;DisplayWall
+50;396.20;7;mochila;DisplayWall
+50;401.74;17;carpet-stain;DisplayWall
+50;425.42;2;corda;DisplayWall
+50;497.46;36;piso-umido-adm;DisplayWall
+50;528.07;23;alarme-desativado-fun;DisplayWall
+51;566.50;37;quadro-solto-prefab;DisplayWall
+51;582.55;26;cadeira-obstruindo-extintor;DisplayWall
+51;608.63;41;tomadaRuim;DisplayWall
+51;626.90;18;tapete-enrolado;DisplayWall
+51;881.95;24;extintor-obstruido-adm;DisplayWall
+52;414.35;46;buraco2;DisplayWall
+52;419.16;44;poca-dagua;DisplayWall
+52;467.06;51;EquipsManutencao;DisplayWall
+52;479.62;27;buraco1;DisplayWall
+52;684.66;37;quadro-solto-prefab;DisplayWall
+52;691.27;43;quadroSolto;DisplayWall
+52;694.55;19;corda-patio;DisplayWall
+52;708.01;25;outlets-caida;DisplayWall
+52;752.45;13;piso-molhado-fun;DisplayWall
+52;766.06;5;piso-quebrado;DisplayWall
+52;768.69;29;mesaCozinha;DisplayWall
+52;782.51;31;gaveta-cozinha-aberta;DisplayWall
+52;793.25;39;cadeirasNoCaminho-fun;DisplayWall
+52;799.47;34;cadeiraCozinha;DisplayWall
+52;826.83;36;piso-umido-adm;DisplayWall
+52;886.80;50;cabinet-open-doors-small;DisplayWall
+53;29.67;15;Produtos;DisplayWall
+53;33.35;37;quadro-solto-prefab;DisplayWall
+53;47.29;18;tapete-enrolado;DisplayWall
+53;59.05;41;tomadaRuim;DisplayWall
+53;129.96;46;buraco2;DisplayWall
+53;153.08;19;corda-patio;DisplayWall
+53;161.68;5;piso-quebrado;DisplayWall
+53;166.04;31;gaveta-cozinha-aberta;DisplayWall
+53;171.76;10;equips-mesma-tomada-fun;DisplayWall
+53;177.86;29;mesaCozinha;DisplayWall
+53;183.31;13;piso-molhado-fun;DisplayWall
+53;184.82;45;lixoNoChao;DisplayWall
+53;188.90;43;quadroSolto;DisplayWall
+53;200.86;34;cadeiraCozinha;DisplayWall
+53;265.14;30;copo-mesacozinha;DisplayWall
+53;375.51;36;piso-umido-adm;DisplayWall
+54;314.40;41;tomadaRuim;DisplayWall
+54;317.92;18;tapete-enrolado;DisplayWall
+54;507.16;13;piso-molhado-fun;DisplayWall
+54;512.35;43;quadroSolto;DisplayWall
+54;537.95;34;cadeiraCozinha;DisplayWall
+54;589.95;10;equips-mesma-tomada-fun;DisplayWall
+54;728.27;50;cabinet-open-doors-small;DisplayWall
+54;765.81;36;piso-umido-adm;DisplayWall
+54;797.95;7;mochila;DisplayWall
+54;804.68;17;carpet-stain;DisplayWall
+54;836.40;38;lixeira-escritorio;DisplayWall
+54;868.26;1;cabinet-open-doors;DisplayWall
+55;848.57;26;cadeira-obstruindo-extintor;DisplayWall
+55;995.65;19;corda-patio;DisplayWall
+55;1035.28;45;lixoNoChao;DisplayWall
+55;1073.74;53;extinjtor-obstruido-patio;DisplayWall
+55;1113.23;36;piso-umido-adm;DisplayWall
+55;1154.32;38;lixeira-escritorio;DisplayWall
+55;1163.96;1;cabinet-open-doors;DisplayWall
+55;1170.02;14;cadeirasNoCaminho;DisplayWall
+55;1249.18;2;corda;DisplayWall
+56;347.27;51;EquipsManutencao;DisplayWall
+56;357.70;44;poca-dagua;DisplayWall
+56;384.10;27;buraco1;DisplayWall
+56;521.80;46;buraco2;DisplayWall
+56;610.54;6;carpete-enrolado;DisplayWall
+56;630.27;36;piso-umido-adm;DisplayWall
+56;641.03;17;carpet-stain;DisplayWall
+56;646.65;7;mochila;DisplayWall
+56;675.15;39;cadeirasNoCaminho-fun;DisplayWall
+56;688.86;13;piso-molhado-fun;DisplayWall
+56;692.75;45;lixoNoChao;DisplayWall
+56;755.67;28;produtosLimpeza;DisplayWall
+56;768.27;29;mesaCozinha;DisplayWall
+56;797.77;34;cadeiraCozinha;DisplayWall
+56;802.65;43;quadroSolto;DisplayWall
+57;864.78;7;mochila;DisplayWall
+57;945.65;36;piso-umido-adm;DisplayWall
+57;953.88;6;carpete-enrolado;DisplayWall
+57;1026.42;53;extinjtor-obstruido-patio;DisplayWall
+58;39.94;37;quadro-solto-prefab;DisplayWall
+58;55.49;18;tapete-enrolado;DisplayWall
+58;58.49;41;tomadaRuim;DisplayWall
+59;610.84;10;equips-mesma-tomada-fun;DisplayWall
+59;619.10;31;gaveta-cozinha-aberta;DisplayWall
+59;660.44;38;lixeira-escritorio;DisplayWall
+59;670.94;1;cabinet-open-doors;DisplayWall
+59;709.11;52;Lampada Estragada;DisplayWall
+60;145.09;18;tapete-enrolado;DisplayWall
+60;182.82;15;Produtos;DisplayWall
+60;183.97;37;quadro-solto-prefab;DisplayWall
+60;187.84;40;carpet_stain;DisplayWall
+60;196.38;52;Lampada Estragada;DisplayWall
+60;211.85;41;tomadaRuim;DisplayWall
+60;243.82;46;buraco2;DisplayWall
+60;261.38;44;poca-dagua;DisplayWall
+60;271.12;27;buraco1;DisplayWall
+60;323.16;19;corda-patio;DisplayWall
+60;332.60;5;piso-quebrado;DisplayWall
+60;341.04;13;piso-molhado-fun;DisplayWall
+60;349.09;43;quadroSolto;DisplayWall
+60;376.60;10;equips-mesma-tomada-fun;DisplayWall
+60;395.98;28;produtosLimpeza;DisplayWall
+60;413.03;7;mochila;DisplayWall
+60;422.11;17;carpet-stain;DisplayWall
+60;433.20;6;carpete-enrolado;DisplayWall
+60;453.85;36;piso-umido-adm;DisplayWall
+60;482.05;32;outlets-semEspelho;DisplayWall
+60;489.57;38;lixeira-escritorio;DisplayWall
+60;550.60;25;outlets-caida;DisplayWall
+61;192.12;15;Produtos;DisplayWall
+61;215.06;26;cadeira-obstruindo-extintor;DisplayWall
+61;481.96;45;lixoNoChao;DisplayWall
+61;531.85;10;equips-mesma-tomada-fun;DisplayWall
+61;752.66;9;gaveteiro-bloqueando-corredor;DisplayWall
+61;763.09;24;extintor-obstruido-adm;DisplayWall
+61;787.03;50;cabinet-open-doors-small;DisplayWall
